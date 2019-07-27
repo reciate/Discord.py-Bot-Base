@@ -11,7 +11,7 @@
 * base.py - Can be duplicated so new cogs are easy to make
 
 ## Commands:
-* !help - Shows all registered commands.
-* !(un/re)load - (un/re)loads a cog.
+* !help - Shows all registered commands
+* !(un/re)load - (un/re)loads a cog
 * !ping - Simple response command
 * !inviteurl - Generates a URL to invite the bot
